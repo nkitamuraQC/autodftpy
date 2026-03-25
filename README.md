@@ -1,5 +1,5 @@
-# pylattice
-Pylattice is a Python Library for Manipulating Quantum ESPRESSO and RESPACK
+# dftpy
+dftpy is a Python Library for Manipulating Quantum ESPRESSO and RESPACK
 
 ## Features
 - Supplementation of a crystal structure with its space group
